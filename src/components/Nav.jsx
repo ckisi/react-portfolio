@@ -5,7 +5,7 @@ export default function Nav() {
   return (
     <Navbar
       links={[
-        <Link key="aboutMe" className="nav-link text-light" to="/aboutMe">
+        <Link key="aboutMe" className="nav-link text-light" to="/">
           About Me
         </Link>,
         <Link key="portfolio" className="nav-link text-light" to="/portfolio">
