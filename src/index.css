@@ -23,6 +23,7 @@ a:hover {
 }
 
 body {
+  background-color: #c0fdfb;
   margin: 0;
 }
 
@@ -63,6 +64,14 @@ button:focus-visible {
   }
 }
 
-body {
-  background-color: #c0fdfb;
+.custom-list-item {
+  background-color: #5aaaa7;
+  border: none;
+  background: transparent;
+  padding: 10px 0;
+}
+
+html, body {
+  height: 100%;
+  margin: 0;
 }
