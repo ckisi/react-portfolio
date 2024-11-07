@@ -12,8 +12,7 @@ The page starts on my about me page. At the top there's a navigation bar to the 
 - JavaScript
 
 ## Screenshots
-![]()
-![]()
+![](./src/assets/reactportss1.png)
 
 ## Links
 - https://ckisi.netlify.app/
