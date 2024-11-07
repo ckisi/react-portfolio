@@ -5,36 +5,46 @@ const projects = [
     id: 1,
     title: "Film Fetcher",
     link: "https://ckisi.github.io/film-fetcher/",
-    image: "",
+    image: "src/assets/filmfetcherSS.png",
   },
   {
     id: 2,
     title: "CookMate",
     link: "https://cookmate-755p.onrender.com",
-    image: "",
+    image: "src/assets/cookmateSS1.png",
   },
   {
     id: 3,
     title: "Tech Blog",
-    link: "",
-    image: "src/assets/filmfetcherSS.png",
+    link: "https://tech-blog-ncr7.onrender.com/",
+    image: "src/assets/techblogSS1.png",
   },
   {
     id: 4,
     title: "Weather Dashboard",
     link: "https://ckisi.github.io/weather-dashboard/",
-    image: "weatherdashboardSS.png",
+    image: "src/assets/weatherdashboardSS.png",
   },
-  { id: 5, title: "Task Board", link: "", image: "" },
-  { id: 6, title: "Note Taker", link: "", image: "" },
+  {
+    id: 5,
+    title: "Task Board",
+    link: "https://ckisi.github.io/task-board/",
+    image: "src/assets/taskboardSS.png",
+  },
+  {
+    id: 6,
+    title: "Note Taker",
+    link: "https://note-taker-nfk9.onrender.com/",
+    image: "src/assets/notetakerss2.png",
+  },
 ];
 
 export default function PortfolioPage() {
   return (
     <div className="container">
-      <div className="row">
+      <div className="row mt-4">
         {projects.map((project) => (
-          <div className="col-md-6 mb-4" key={project.id}>
+          <div className="col-md-4 col-sm-6 mb-4" key={project.id}>
             <Card
               title={project.title}
               link={project.link}
