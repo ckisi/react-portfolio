@@ -1,8 +1,23 @@
-# React + Vite
+# React Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+This is my portfolio, for employers to see my skills. It showcases the sites I've developed and presents my skills so potential employers can see what I can do.
 
-Currently, two official plugins are available:
+## Usage
+The page starts on my about me page. At the top there's a navigation bar to the different pages. Portfolio shows the applications developed by me. The contact page lets you send me a message. The resume page has my resume and lists my skills.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies
+- React
+- Vite
+- JavaScript
+
+## Screenshots
+![]()
+![]()
+
+## Links
+- https://ckisi.netlify.app/
+- https://github.com/ckisi/react-portfolio
+
+## Credits
+- Xpert Learning Assistant
