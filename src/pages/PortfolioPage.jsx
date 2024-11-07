@@ -5,37 +5,37 @@ const projects = [
     id: 1,
     title: "Film Fetcher",
     link: "https://ckisi.github.io/film-fetcher/",
-    image: "src/assets/filmfetcherSS.png",
+    image: "filmfetcherSS.png",
   },
   {
     id: 2,
     title: "CookMate",
     link: "https://cookmate-755p.onrender.com",
-    image: "src/assets/cookmateSS1.png",
+    image: "cookmateSS1.png",
   },
   {
     id: 3,
     title: "Tech Blog",
     link: "https://tech-blog-ncr7.onrender.com/",
-    image: "src/assets/techblogSS1.png",
+    image: "techblogSS1.png",
   },
   {
     id: 4,
     title: "Weather Dashboard",
     link: "https://ckisi.github.io/weather-dashboard/",
-    image: "src/assets/weatherdashboardSS.png",
+    image: "weatherdashboardSS.png",
   },
   {
     id: 5,
     title: "Task Board",
     link: "https://ckisi.github.io/task-board/",
-    image: "src/assets/taskboardSS.png",
+    image: "taskboardSS.png",
   },
   {
     id: 6,
     title: "Note Taker",
     link: "https://note-taker-nfk9.onrender.com/",
-    image: "src/assets/notetakerss2.png",
+    image: "notetakerss2.png",
   },
 ];
 
